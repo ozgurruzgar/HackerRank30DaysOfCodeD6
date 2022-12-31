@@ -1,6 +1,6 @@
 # HackerRank 30 Days Of Code Day 6:
 
-#Task - Görev
+# Task - Görev
 
 Bize s string ve onun kelime uzunluğu olarak n değeri verilmiş. Bizden istenen s stringini çift indexli ve tek indexli olmak üzere ayırıp ekrana boşluklarla ayrılmış şekilde yeni satırda yazdırmak.
 
